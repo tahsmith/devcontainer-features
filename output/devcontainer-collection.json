@@ -1,0 +1,15 @@
+{
+    "sourceInformation": {
+        "source": "devcontainer-cli"
+    },
+    "features": [
+        {
+            "id": "neovim",
+            "version": "0.0.0",
+            "name": "neovim",
+            "installsAfter": [
+                "ghcr.io/devcontainers/features/common-utils"
+            ]
+        }
+    ]
+}
